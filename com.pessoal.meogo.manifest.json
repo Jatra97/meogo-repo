@@ -8,6 +8,6 @@
   "sourceUrl": "https://jatra97.github.io/meogo-repo",
   "rootRequired": false,
   "ipkUrl": "com.pessoal.meogo_1.0.0_all.ipk",
-  "ipkSize": 5140,
-  "ipkHash": { "sha256": "3774c2a2c62b083544108a48fcbde84597cd12bb311128d542ee480f4f882023" }
+  "ipkSize": 5184,
+  "ipkHash": { "sha256": "ddc654ed293597b219f47fa7269c549ac5e6c3b182af11caf1213efeaa8b165c" }
 }
