@@ -1,0 +1,7 @@
+{
+  "paging": { "page": 1, "count": 1, "maxPage": 1, "itemsTotal": 1 },
+  "packages": [
+    { "id": "com.pessoal.meogo", "title": "MEO Go", "iconUri": "https://jatra97.github.io/meogo-repo/icon.png",
+      "manifestUrl": "https://jatra97.github.io/meogo-repo/com.pessoal.meogo.manifest.json" }
+  ]
+}
