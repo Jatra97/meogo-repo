@@ -1,0 +1,13 @@
+{
+  "id": "com.pessoal.meogo",
+  "version": "1.0.0",
+  "type": "web",
+  "title": "MEO Go",
+  "appDescription": "MEO Go (tv.meo.pt) para webOS",
+  "iconUri": "https://jatra97.github.io/meogo-repo/icon.png",
+  "sourceUrl": "https://jatra97.github.io/meogo-repo",
+  "rootRequired": false,
+  "ipkUrl": "com.pessoal.meogo_1.0.0_all.ipk",
+  "ipkSize": 5140,
+  "ipkHash": { "sha256": "3774c2a2c62b083544108a48fcbde84597cd12bb311128d542ee480f4f882023" }
+}
